@@ -6,11 +6,12 @@
 #
 # Your changes will be overwritten when the template updates (daily)
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
+# schedule:
+#    - cron: "*/5 * * * *"
+  
 
 name: Uptime CI
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
