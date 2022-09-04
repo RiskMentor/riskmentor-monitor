@@ -9,8 +9,6 @@ sites:
     url: https://secure.riskmentor.com
   - name: RiskMentor v2
     url: https://app.riskmentor.com
-  - name: Test
-    url: https://dummy.riskmentor.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
