@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emesrt.org.ico",
     "slug": "emesrt",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.68%",
-    "time": 1467,
-    "timeDay": 1757,
-    "timeWeek": 1673,
-    "timeMonth": 1470,
-    "timeYear": 1467,
+    "uptimeYear": "99.69%",
+    "time": 1471,
+    "timeDay": 1855,
+    "timeWeek": 1724,
+    "timeMonth": 1490,
+    "timeYear": 1471,
     "dailyMinutesDown": {
       "2022-11-21": 405
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 854,
-    "timeWeek": 856,
-    "timeMonth": 839,
-    "timeYear": 875,
+    "time": 872,
+    "timeDay": 594,
+    "timeWeek": 812,
+    "timeMonth": 837,
+    "timeYear": 872,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 964,
-    "timeWeek": 927,
-    "timeMonth": 922,
-    "timeYear": 949,
+    "time": 947,
+    "timeDay": 773,
+    "timeWeek": 899,
+    "timeMonth": 920,
+    "timeYear": 947,
     "dailyMinutesDown": {}
   }
 ]
