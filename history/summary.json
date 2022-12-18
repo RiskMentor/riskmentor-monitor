@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emesrt.org.ico",
     "slug": "emesrt",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.73%",
-    "time": 1505,
-    "timeDay": 1682,
-    "timeWeek": 1720,
-    "timeMonth": 1636,
-    "timeYear": 1505,
+    "uptimeYear": "99.74%",
+    "time": 1506,
+    "timeDay": 1700,
+    "timeWeek": 1705,
+    "timeMonth": 1651,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2022-11-21": 405
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 909,
-    "timeWeek": 824,
+    "timeDay": 920,
+    "timeWeek": 832,
     "timeMonth": 849,
     "timeYear": 871,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 950,
-    "timeWeek": 900,
-    "timeMonth": 917,
-    "timeYear": 942,
+    "time": 943,
+    "timeDay": 1025,
+    "timeWeek": 914,
+    "timeMonth": 918,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   }
 ]
