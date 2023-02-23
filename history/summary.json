@@ -25,10 +25,10 @@
     "url": "https://secure.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/secure.riskmentor.com.ico",
     "slug": "risk-mentor-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
@@ -36,17 +36,19 @@
     "timeWeek": 759,
     "timeMonth": 789,
     "timeYear": 847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 2
+    }
   },
   {
     "name": "RiskMentor v2 App",
     "url": "https://app.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.riskmentor.com.ico",
     "slug": "risk-mentor-v2-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
@@ -54,17 +56,19 @@
     "timeWeek": 813,
     "timeMonth": 874,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "RiskMentor v2 API",
     "url": "https://api.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.riskmentor.com.ico",
     "slug": "risk-mentor-v2-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 972,
@@ -72,16 +76,18 @@
     "timeWeek": 922,
     "timeMonth": 972,
     "timeYear": 972,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 1
+    }
   },
   {
     "name": "RiskMentor WhiteSocks",
     "url": "https://whitesocks-app.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/whitesocks-app.riskmentor.com.ico",
     "slug": "risk-mentor-white-socks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,6 +96,8 @@
     "timeWeek": 134,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   }
 ]
