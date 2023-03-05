@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1568,
-    "timeDay": 1729,
-    "timeWeek": 1584,
-    "timeMonth": 1537,
+    "timeDay": 1570,
+    "timeWeek": 1541,
+    "timeMonth": 1541,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2022-12-30": 42,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/secure.riskmentor.com.ico",
     "slug": "risk-mentor-v1",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 845,
-    "timeDay": 904,
-    "timeWeek": 780,
-    "timeMonth": 774,
+    "timeDay": 903,
+    "timeWeek": 777,
+    "timeMonth": 780,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2023-02-23": 92
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.82%",
-    "time": 872,
-    "timeDay": 984,
-    "timeWeek": 869,
-    "timeMonth": 854,
-    "timeYear": 872,
+    "time": 879,
+    "timeDay": 1136,
+    "timeWeek": 892,
+    "timeMonth": 868,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2023-02-23": 92
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.82%",
-    "time": 974,
-    "timeDay": 1113,
-    "timeWeek": 947,
-    "timeMonth": 959,
-    "timeYear": 974,
+    "time": 975,
+    "timeDay": 990,
+    "timeWeek": 938,
+    "timeMonth": 960,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.82%",
-    "time": 320,
-    "timeDay": 535,
-    "timeWeek": 963,
-    "timeMonth": 335,
-    "timeYear": 320,
+    "time": 329,
+    "timeDay": 648,
+    "timeWeek": 1022,
+    "timeMonth": 353,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
