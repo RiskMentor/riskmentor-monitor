@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 1564,
-    "timeDay": 1640,
-    "timeWeek": 1477,
-    "timeMonth": 1532,
+    "timeDay": 1635,
+    "timeWeek": 1474,
+    "timeMonth": 1535,
     "timeYear": 1564,
     "dailyMinutesDown": {
       "2022-12-30": 42,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 841,
-    "timeDay": 723,
-    "timeWeek": 763,
-    "timeMonth": 778,
-    "timeYear": 841,
+    "time": 842,
+    "timeDay": 895,
+    "timeWeek": 767,
+    "timeMonth": 780,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2023-02-23": 92
     }
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.riskmentor.com.ico",
     "slug": "risk-mentor-v2-app",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.85%",
-    "time": 874,
-    "timeDay": 688,
-    "timeWeek": 860,
-    "timeMonth": 864,
-    "timeYear": 874,
+    "uptimeYear": "99.86%",
+    "time": 879,
+    "timeDay": 1117,
+    "timeWeek": 872,
+    "timeMonth": 866,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2023-02-23": 92
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 964,
-    "timeDay": 878,
-    "timeWeek": 939,
-    "timeMonth": 956,
-    "timeYear": 964,
+    "time": 967,
+    "timeDay": 1093,
+    "timeWeek": 943,
+    "timeMonth": 950,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 372,
-    "timeDay": 561,
-    "timeWeek": 585,
-    "timeMonth": 483,
-    "timeYear": 372,
+    "time": 376,
+    "timeDay": 589,
+    "timeWeek": 579,
+    "timeMonth": 497,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
