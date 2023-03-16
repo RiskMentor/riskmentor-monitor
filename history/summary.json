@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1565,
-    "timeDay": 1695,
-    "timeWeek": 1498,
-    "timeMonth": 1546,
-    "timeYear": 1565,
+    "time": 1567,
+    "timeDay": 1918,
+    "timeWeek": 1562,
+    "timeMonth": 1549,
+    "timeYear": 1567,
     "dailyMinutesDown": {
       "2022-12-30": 42,
       "2022-11-21": 405
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 842,
-    "timeDay": 892,
-    "timeWeek": 797,
-    "timeMonth": 790,
+    "timeDay": 865,
+    "timeWeek": 796,
+    "timeMonth": 791,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2023-02-23": 92
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
     "time": 880,
-    "timeDay": 901,
-    "timeWeek": 890,
-    "timeMonth": 872,
+    "timeDay": 909,
+    "timeWeek": 863,
+    "timeMonth": 870,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-02-23": 92
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.86%",
-    "time": 971,
-    "timeDay": 1131,
-    "timeWeek": 978,
-    "timeMonth": 963,
-    "timeYear": 971,
+    "time": 973,
+    "timeDay": 1115,
+    "timeWeek": 982,
+    "timeMonth": 962,
+    "timeYear": 973,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/whitesocks-app.riskmentor.com.ico",
     "slug": "risk-mentor-white-socks",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.86%",
-    "time": 380,
-    "timeDay": 562,
-    "timeWeek": 572,
-    "timeMonth": 511,
-    "timeYear": 380,
+    "uptimeYear": "99.87%",
+    "time": 385,
+    "timeDay": 604,
+    "timeWeek": 566,
+    "timeMonth": 514,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2023-02-23": 91
     }
