@@ -11,8 +11,8 @@ sites:
     url: https://app.riskmentor.com
   - name: RiskMentor v2 API
     url: https://api.riskmentor.com
-  - name: RiskMentor WhiteSocks
-    url: https://whitesocks-app.riskmentor.com
+  - name: RiskMentor Connect
+    url: https://connect-app.riskmentor.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
