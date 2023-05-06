@@ -4,9 +4,9 @@
     "url": "https://emesrt.org",
     "icon": "https://icons.duckduckgo.com/ip3/emesrt.org.ico",
     "slug": "emesrt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 1695,
     "timeYear": 1585,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2022-12-30": 42,
       "2022-11-21": 405
     }
@@ -46,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.riskmentor.com.ico",
     "slug": "risk-mentor-v2-app",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 905,
     "timeDay": 915,
     "timeWeek": 909,
