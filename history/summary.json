@@ -33,9 +33,9 @@
     "slug": "risk-mentor-v1",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 840,
     "timeDay": 870,
@@ -43,7 +43,7 @@
     "timeMonth": 849,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2023-08-08": 2,
+      "2023-08-08": 16,
       "2023-02-23": 92
     }
   },
@@ -52,19 +52,19 @@
     "url": "https://app.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.riskmentor.com.ico",
     "slug": "risk-mentor-v2-app",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 920,
-    "timeDay": 928,
-    "timeWeek": 932,
+    "timeDay": 932,
+    "timeWeek": 933,
     "timeMonth": 950,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2023-08-08": 1,
+      "2023-08-08": 15,
       "2023-02-23": 92
     }
   },
@@ -93,19 +93,19 @@
     "url": "https://connect-app.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/connect-app.riskmentor.com.ico",
     "slug": "risk-mentor-connect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 572,
-    "timeWeek": 581,
-    "timeMonth": 572,
-    "timeYear": 595,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 645,
+    "timeDay": 3104,
+    "timeWeek": 1213,
+    "timeMonth": 730,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 15
     }
   }
 ]
