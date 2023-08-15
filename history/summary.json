@@ -11,9 +11,9 @@
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.45%",
     "time": 1615,
-    "timeDay": 1982,
-    "timeWeek": 1646,
-    "timeMonth": 1706,
+    "timeDay": 1913,
+    "timeWeek": 1668,
+    "timeMonth": 1710,
     "timeYear": 1615,
     "dailyMinutesDown": {
       "2023-08-13": 508,
@@ -28,6 +28,26 @@
     }
   },
   {
+    "name": "RiskMentor Website",
+    "url": "https://riskmentor.com.au",
+    "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
+    "slug": "risk-mentor-website",
+    "status": "down",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-08-15": 0
+    }
+  },
+  {
     "name": "RiskMentor v1",
     "url": "https://secure.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/secure.riskmentor.com.ico",
@@ -35,14 +55,14 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
-    "time": 840,
-    "timeDay": 940,
-    "timeWeek": 871,
+    "time": 841,
+    "timeDay": 916,
+    "timeWeek": 869,
     "timeMonth": 867,
-    "timeYear": 840,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2023-08-08": 33,
       "2023-02-23": 92
@@ -56,13 +76,13 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 920,
-    "timeDay": 924,
-    "timeWeek": 930,
-    "timeMonth": 924,
+    "timeDay": 900,
+    "timeWeek": 922,
+    "timeMonth": 923,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2023-08-08": 15,
@@ -81,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1013,
-    "timeDay": 1112,
-    "timeWeek": 1023,
-    "timeMonth": 1056,
+    "timeDay": 1117,
+    "timeWeek": 1036,
+    "timeMonth": 1058,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2023-02-23": 91
@@ -100,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 580,
-    "timeWeek": 1204,
-    "timeMonth": 734,
-    "timeYear": 640,
+    "time": 639,
+    "timeDay": 566,
+    "timeWeek": 569,
+    "timeMonth": 728,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   }
 ]
