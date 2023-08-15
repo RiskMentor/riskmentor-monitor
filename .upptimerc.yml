@@ -5,6 +5,8 @@ repo: riskemntor-monitor # The name of this repository
 sites:
   - name: Emesrt
     url: https://emesrt.org
+  - name: RiskMentor Website
+    url: https://riskmentor.com.au
   - name: RiskMentor v1
     url: https://secure.riskmentor.com
   - name: RiskMentor v2 App
