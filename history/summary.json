@@ -4,9 +4,9 @@
     "url": "https://emesrt.org",
     "icon": "https://icons.duckduckgo.com/ip3/emesrt.org.ico",
     "slug": "emesrt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.96%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.45%",
@@ -16,6 +16,7 @@
     "timeMonth": 1702,
     "timeYear": 1615,
     "dailyMinutesDown": {
+      "2023-08-17": 0,
       "2023-08-13": 508,
       "2023-07-30": 17,
       "2023-07-25": 17,
@@ -44,7 +45,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-17": 17,
+      "2023-08-17": 572,
       "2023-08-16": 1440,
       "2023-08-15": 799
     }
