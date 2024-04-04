@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 19,
+      "2024-04-04": 20,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -257,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/secure.riskmentor.com.ico",
     "slug": "risk-mentor-v1",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 828,
-    "timeDay": 851,
-    "timeWeek": 854,
-    "timeMonth": 805,
-    "timeYear": 832,
+    "time": 827,
+    "timeDay": 616,
+    "timeWeek": 829,
+    "timeMonth": 796,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2023-08-08": 33
     }
@@ -283,10 +284,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
-    "timeDay": 1000,
-    "timeWeek": 912,
-    "timeMonth": 1019,
-    "timeYear": 912,
+    "timeDay": 709,
+    "timeWeek": 902,
+    "timeMonth": 1011,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2023-08-08": 15
     }
@@ -303,10 +304,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1005,
-    "timeDay": 1016,
-    "timeWeek": 1078,
-    "timeMonth": 994,
-    "timeYear": 1011,
+    "timeDay": 727,
+    "timeWeek": 1056,
+    "timeMonth": 981,
+    "timeYear": 1010,
     "dailyMinutesDown": {}
   },
   {
@@ -320,11 +321,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 355,
-    "timeWeek": 565,
-    "timeMonth": 530,
-    "timeYear": 589,
+    "time": 588,
+    "timeDay": 431,
+    "timeWeek": 547,
+    "timeMonth": 525,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   }
 ]
