@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-11": 902,
+      "2024-07-11": 920,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -395,19 +395,19 @@
     "url": "https://api.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.riskmentor.com.ico",
     "slug": "risk-mentor-v2-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1020,
-    "timeDay": 1022,
-    "timeWeek": 1052,
-    "timeMonth": 1174,
-    "timeYear": 1022,
+    "timeDay": 953,
+    "timeWeek": 1031,
+    "timeMonth": 1165,
+    "timeYear": 1021,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 18
     }
   },
   {
