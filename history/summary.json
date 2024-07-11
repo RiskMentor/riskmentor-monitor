@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-11": 22,
+      "2024-07-11": 902,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -395,9 +395,9 @@
     "url": "https://api.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.riskmentor.com.ico",
     "slug": "risk-mentor-v2-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -406,7 +406,9 @@
     "timeWeek": 1052,
     "timeMonth": 1174,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "RiskMentor Connect",
