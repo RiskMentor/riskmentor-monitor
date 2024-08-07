@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-06": 22,
+      "2024-08-07": 22,
+      "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -388,13 +389,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 839,
-    "timeDay": 987,
-    "timeWeek": 840,
-    "timeMonth": 856,
+    "timeDay": 676,
+    "timeWeek": 805,
+    "timeMonth": 848,
     "timeYear": 838,
-    "dailyMinutesDown": {
-      "2023-08-08": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RiskMentor v2 App",
@@ -407,14 +406,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 1009,
-    "timeWeek": 912,
-    "timeMonth": 906,
+    "time": 907,
+    "timeDay": 770,
+    "timeWeek": 890,
+    "timeMonth": 899,
     "timeYear": 896,
-    "dailyMinutesDown": {
-      "2023-08-08": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RiskMentor v2 API",
@@ -427,10 +424,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 1080,
-    "timeWeek": 1056,
-    "timeMonth": 1041,
+    "time": 1024,
+    "timeDay": 966,
+    "timeWeek": 1028,
+    "timeMonth": 1035,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -448,9 +445,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 523,
-    "timeWeek": 667,
-    "timeMonth": 594,
+    "timeDay": 642,
+    "timeWeek": 677,
+    "timeMonth": 593,
     "timeYear": 586,
     "dailyMinutesDown": {}
   }
