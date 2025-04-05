@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "0.30%",
+    "uptime": "0.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "25.25%",
-    "uptimeMonth": "3.90%",
-    "uptimeYear": "0.48%",
-    "time": 6300,
-    "timeDay": 3223,
-    "timeWeek": 6300,
-    "timeMonth": 6300,
-    "timeYear": 6300,
+    "uptimeWeek": "39.54%",
+    "uptimeMonth": "7.19%",
+    "uptimeYear": "0.76%",
+    "time": 5555,
+    "timeDay": 3319,
+    "timeWeek": 5555,
+    "timeMonth": 5555,
+    "timeYear": 5555,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -377,8 +377,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -393,10 +392,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 991,
-    "timeWeek": 830,
+    "timeDay": 924,
+    "timeWeek": 874,
     "timeMonth": 862,
-    "timeYear": 846,
+    "timeYear": 847,
     "dailyMinutesDown": {}
   },
   {
@@ -411,9 +410,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 853,
-    "timeDay": 839,
-    "timeWeek": 712,
-    "timeMonth": 739,
+    "timeDay": 836,
+    "timeWeek": 754,
+    "timeMonth": 740,
     "timeYear": 836,
     "dailyMinutesDown": {}
   },
@@ -428,10 +427,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 1154,
-    "timeWeek": 1023,
-    "timeMonth": 1031,
+    "time": 1022,
+    "timeDay": 1169,
+    "timeWeek": 1082,
+    "timeMonth": 1032,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -449,10 +448,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 571,
-    "timeDay": 686,
-    "timeWeek": 584,
-    "timeMonth": 608,
-    "timeYear": 581,
+    "timeDay": 716,
+    "timeWeek": 620,
+    "timeMonth": 611,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   }
 ]
