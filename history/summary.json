@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "3.52%",
+    "uptime": "3.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.65%",
-    "uptimeYear": "5.96%",
-    "time": 3508,
-    "timeDay": 2925,
-    "timeWeek": 2795,
-    "timeMonth": 3508,
-    "timeYear": 3508,
+    "uptimeMonth": "72.94%",
+    "uptimeYear": "6.24%",
+    "time": 3486,
+    "timeDay": 2973,
+    "timeWeek": 2839,
+    "timeMonth": 3486,
+    "timeYear": 3486,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -357,8 +357,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   },
   {
@@ -373,9 +372,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
-    "timeDay": 871,
-    "timeWeek": 842,
-    "timeMonth": 835,
+    "timeDay": 986,
+    "timeWeek": 869,
+    "timeMonth": 837,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -391,10 +390,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
-    "timeDay": 868,
-    "timeWeek": 762,
-    "timeMonth": 736,
-    "timeYear": 830,
+    "timeDay": 790,
+    "timeWeek": 758,
+    "timeMonth": 735,
+    "timeYear": 829,
     "dailyMinutesDown": {}
   },
   {
@@ -409,9 +408,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1022,
-    "timeDay": 1025,
-    "timeWeek": 988,
-    "timeMonth": 996,
+    "timeDay": 1156,
+    "timeWeek": 1015,
+    "timeMonth": 998,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -429,10 +428,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 612,
-    "timeWeek": 576,
-    "timeMonth": 591,
-    "timeYear": 583,
+    "timeDay": 741,
+    "timeWeek": 595,
+    "timeMonth": 593,
+    "timeYear": 584,
     "dailyMinutesDown": {}
   }
 ]
