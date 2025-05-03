@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "4.76%",
+    "uptime": "4.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "8.16%",
-    "time": 3353,
-    "timeDay": 3098,
-    "timeWeek": 2897,
-    "timeMonth": 3353,
-    "timeYear": 3353,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "8.43%",
+    "time": 3344,
+    "timeDay": 3065,
+    "timeWeek": 2901,
+    "timeMonth": 3044,
+    "timeYear": 3344,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -349,8 +349,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   },
   {
@@ -364,10 +363,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 951,
-    "timeWeek": 924,
-    "timeMonth": 860,
+    "time": 839,
+    "timeDay": 878,
+    "timeWeek": 914,
+    "timeMonth": 868,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -383,9 +382,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 717,
-    "timeWeek": 781,
-    "timeMonth": 750,
+    "timeDay": 783,
+    "timeWeek": 774,
+    "timeMonth": 757,
     "timeYear": 827,
     "dailyMinutesDown": {}
   },
@@ -401,9 +400,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1023,
-    "timeDay": 1197,
-    "timeWeek": 1100,
-    "timeMonth": 1028,
+    "timeDay": 1112,
+    "timeWeek": 1085,
+    "timeMonth": 1029,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -421,9 +420,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 717,
-    "timeWeek": 651,
-    "timeMonth": 602,
+    "timeDay": 586,
+    "timeWeek": 616,
+    "timeMonth": 606,
     "timeYear": 585,
     "dailyMinutesDown": {}
   }
