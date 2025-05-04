@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "4.91%",
+    "uptime": "5.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "8.43%",
-    "time": 3344,
-    "timeDay": 3065,
-    "timeWeek": 2901,
-    "timeMonth": 3044,
-    "timeYear": 3344,
+    "uptimeYear": "8.70%",
+    "time": 3333,
+    "timeDay": 2973,
+    "timeWeek": 2913,
+    "timeMonth": 3036,
+    "timeYear": 3333,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -348,8 +348,7 @@
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
-      "2024-05-05": 1440,
-      "2024-05-04": 1440
+      "2024-05-05": 1440
     }
   },
   {
@@ -364,9 +363,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 839,
-    "timeDay": 878,
-    "timeWeek": 914,
-    "timeMonth": 868,
+    "timeDay": 954,
+    "timeWeek": 905,
+    "timeMonth": 866,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -382,8 +381,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 783,
-    "timeWeek": 774,
+    "timeDay": 836,
+    "timeWeek": 790,
     "timeMonth": 757,
     "timeYear": 827,
     "dailyMinutesDown": {}
@@ -399,11 +398,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 1112,
-    "timeWeek": 1085,
-    "timeMonth": 1029,
-    "timeYear": 1034,
+    "time": 1024,
+    "timeDay": 1252,
+    "timeWeek": 1102,
+    "timeMonth": 1032,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-07-11": 18
     }
@@ -420,9 +419,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
-    "timeDay": 586,
-    "timeWeek": 616,
-    "timeMonth": 606,
+    "timeDay": 595,
+    "timeWeek": 604,
+    "timeMonth": 603,
     "timeYear": 585,
     "dailyMinutesDown": {}
   }
