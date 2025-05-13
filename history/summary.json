@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "6.26%",
+    "uptime": "6.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.90%",
-    "time": 3240,
-    "timeDay": 3041,
-    "timeWeek": 2843,
-    "timeMonth": 2838,
-    "timeYear": 3240,
+    "uptimeYear": "11.17%",
+    "time": 3231,
+    "timeDay": 2871,
+    "timeWeek": 2831,
+    "timeMonth": 2848,
+    "timeYear": 3231,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -339,8 +339,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -355,9 +354,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
-    "timeDay": 1018,
-    "timeWeek": 874,
-    "timeMonth": 874,
+    "timeDay": 934,
+    "timeWeek": 890,
+    "timeMonth": 882,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -373,10 +372,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 783,
-    "timeWeek": 737,
-    "timeMonth": 747,
-    "timeYear": 823,
+    "timeDay": 848,
+    "timeWeek": 753,
+    "timeMonth": 758,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   },
   {
@@ -391,9 +390,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1024,
-    "timeDay": 1191,
-    "timeWeek": 1026,
-    "timeMonth": 1026,
+    "timeDay": 1173,
+    "timeWeek": 1047,
+    "timeMonth": 1039,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -411,10 +410,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
-    "timeDay": 734,
-    "timeWeek": 594,
-    "timeMonth": 593,
-    "timeYear": 585,
+    "timeDay": 683,
+    "timeWeek": 608,
+    "timeMonth": 602,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   }
 ]
