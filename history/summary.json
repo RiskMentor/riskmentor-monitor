@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "11.55%",
+    "uptime": "11.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.31%",
-    "time": 3080,
-    "timeDay": 2742,
-    "timeWeek": 3080,
-    "timeMonth": 2899,
-    "timeYear": 3080,
+    "uptimeYear": "21.58%",
+    "time": 3081,
+    "timeDay": 3106,
+    "timeWeek": 3082,
+    "timeMonth": 2914,
+    "timeYear": 3081,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -301,8 +301,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -317,10 +316,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 848,
-    "timeDay": 650,
-    "timeWeek": 865,
-    "timeMonth": 892,
-    "timeYear": 863,
+    "timeDay": 778,
+    "timeWeek": 823,
+    "timeMonth": 897,
+    "timeYear": 862,
     "dailyMinutesDown": {}
   },
   {
@@ -335,9 +334,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 559,
-    "timeWeek": 746,
-    "timeMonth": 773,
+    "timeDay": 732,
+    "timeWeek": 730,
+    "timeMonth": 779,
     "timeYear": 812,
     "dailyMinutesDown": {}
   },
@@ -352,10 +351,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 852,
-    "timeWeek": 1053,
-    "timeMonth": 1033,
+    "time": 1030,
+    "timeDay": 1038,
+    "timeWeek": 1040,
+    "timeMonth": 1041,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2024-07-11": 18
@@ -373,9 +372,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 460,
-    "timeWeek": 618,
-    "timeMonth": 617,
+    "timeDay": 593,
+    "timeWeek": 600,
+    "timeMonth": 622,
     "timeYear": 588,
     "dailyMinutesDown": {}
   }
