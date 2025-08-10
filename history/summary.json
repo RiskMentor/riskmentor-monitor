@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "17.77%",
+    "uptime": "17.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.28%",
-    "time": 3012,
-    "timeDay": 1646,
-    "timeWeek": 2321,
-    "timeMonth": 2830,
-    "timeYear": 3012,
+    "uptimeYear": "35.55%",
+    "time": 3002,
+    "timeDay": 1739,
+    "timeWeek": 2156,
+    "timeMonth": 2798,
+    "timeYear": 3002,
     "dailyMinutesDown": {
       "2025-04-02": 361,
       "2025-04-01": 1440,
@@ -250,8 +250,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   },
   {
@@ -266,9 +265,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 856,
-    "timeDay": 1043,
-    "timeWeek": 881,
-    "timeMonth": 901,
+    "timeDay": 916,
+    "timeWeek": 869,
+    "timeMonth": 907,
     "timeYear": 857,
     "dailyMinutesDown": {}
   },
@@ -284,10 +283,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 819,
-    "timeDay": 911,
+    "timeDay": 896,
     "timeWeek": 755,
-    "timeMonth": 765,
-    "timeYear": 791,
+    "timeMonth": 773,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   },
   {
@@ -302,10 +301,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1040,
-    "timeDay": 1209,
-    "timeWeek": 1059,
-    "timeMonth": 1085,
-    "timeYear": 1033,
+    "timeDay": 1247,
+    "timeWeek": 1072,
+    "timeMonth": 1098,
+    "timeYear": 1034,
     "dailyMinutesDown": {}
   },
   {
@@ -320,10 +319,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
-    "timeDay": 626,
-    "timeWeek": 583,
-    "timeMonth": 605,
-    "timeYear": 589,
+    "timeDay": 746,
+    "timeWeek": 604,
+    "timeMonth": 613,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   }
 ]
