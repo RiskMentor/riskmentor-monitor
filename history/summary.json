@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "21.45%",
+    "uptime": "21.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "44.59%",
-    "time": 2857,
-    "timeDay": 1696,
-    "timeWeek": 2306,
-    "timeMonth": 2338,
-    "timeYear": 2857,
+    "uptimeYear": "44.86%",
+    "time": 2849,
+    "timeDay": 1583,
+    "timeWeek": 2311,
+    "timeMonth": 2334,
+    "timeYear": 2849,
     "dailyMinutesDown": {
       "2025-08-22": 45,
       "2025-04-02": 361,
@@ -217,8 +217,7 @@
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
-      "2024-09-14": 1440,
-      "2024-09-13": 1440
+      "2024-09-14": 1440
     }
   },
   {
@@ -232,11 +231,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 948,
-    "timeWeek": 883,
-    "timeMonth": 853,
-    "timeYear": 859,
+    "time": 861,
+    "timeDay": 974,
+    "timeWeek": 884,
+    "timeMonth": 854,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -251,9 +250,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
-    "timeDay": 1170,
-    "timeWeek": 789,
-    "timeMonth": 805,
+    "timeDay": 798,
+    "timeWeek": 801,
+    "timeMonth": 807,
     "timeYear": 782,
     "dailyMinutesDown": {}
   },
@@ -269,10 +268,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1044,
-    "timeDay": 1183,
-    "timeWeek": 1087,
+    "timeDay": 1157,
+    "timeWeek": 1098,
     "timeMonth": 1069,
-    "timeYear": 1038,
+    "timeYear": 1039,
     "dailyMinutesDown": {}
   },
   {
@@ -287,10 +286,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
-    "timeDay": 796,
-    "timeWeek": 606,
+    "timeDay": 634,
+    "timeWeek": 620,
     "timeMonth": 601,
-    "timeYear": 591,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
