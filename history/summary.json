@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "27.65%",
+    "uptime": "27.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.39%",
-    "time": 2487,
-    "timeDay": 1145,
-    "timeWeek": 1975,
-    "timeMonth": 1591,
-    "timeYear": 2487,
+    "uptimeYear": "62.67%",
+    "time": 2484,
+    "timeDay": 1653,
+    "timeWeek": 1993,
+    "timeMonth": 1597,
+    "timeYear": 2484,
     "dailyMinutesDown": {
       "2025-08-22": 45,
       "2025-04-02": 361,
@@ -152,8 +152,7 @@
       "2024-11-21": 1440,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
-      "2024-11-18": 1440,
-      "2024-11-17": 1440
+      "2024-11-18": 1440
     }
   },
   {
@@ -168,10 +167,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 641,
-    "timeWeek": 877,
-    "timeMonth": 856,
-    "timeYear": 863,
+    "timeDay": 911,
+    "timeWeek": 870,
+    "timeMonth": 853,
+    "timeYear": 864,
     "dailyMinutesDown": {}
   },
   {
@@ -186,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 793,
-    "timeDay": 533,
-    "timeWeek": 711,
-    "timeMonth": 723,
+    "timeDay": 762,
+    "timeWeek": 696,
+    "timeMonth": 721,
     "timeYear": 755,
     "dailyMinutesDown": {}
   },
@@ -204,10 +203,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1035,
-    "timeDay": 736,
-    "timeWeek": 1030,
-    "timeMonth": 1020,
-    "timeYear": 1037,
+    "timeDay": 1136,
+    "timeWeek": 1031,
+    "timeMonth": 1021,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   },
   {
@@ -222,9 +221,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 409,
-    "timeWeek": 538,
-    "timeMonth": 558,
+    "timeDay": 476,
+    "timeWeek": 519,
+    "timeMonth": 553,
     "timeYear": 593,
     "dailyMinutesDown": {}
   }
