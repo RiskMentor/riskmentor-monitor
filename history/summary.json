@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "28.35%",
+    "uptime": "28.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "64.59%",
-    "time": 2454,
-    "timeDay": 1564,
-    "timeWeek": 1458,
-    "timeMonth": 1570,
-    "timeYear": 2454,
+    "uptimeYear": "64.86%",
+    "time": 2451,
+    "timeDay": 1774,
+    "timeWeek": 1508,
+    "timeMonth": 1577,
+    "timeYear": 2451,
     "dailyMinutesDown": {
       "2025-08-22": 45,
       "2025-04-02": 361,
@@ -144,8 +144,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -160,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 856,
-    "timeDay": 1070,
-    "timeWeek": 862,
-    "timeMonth": 835,
+    "timeDay": 958,
+    "timeWeek": 880,
+    "timeMonth": 838,
     "timeYear": 865,
     "dailyMinutesDown": {}
   },
@@ -178,10 +177,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 795,
-    "timeWeek": 708,
-    "timeMonth": 703,
-    "timeYear": 753,
+    "timeDay": 782,
+    "timeWeek": 704,
+    "timeMonth": 701,
+    "timeYear": 752,
     "dailyMinutesDown": {}
   },
   {
@@ -196,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1035,
-    "timeDay": 1175,
-    "timeWeek": 1035,
-    "timeMonth": 1003,
-    "timeYear": 1039,
+    "timeDay": 1266,
+    "timeWeek": 1062,
+    "timeMonth": 1006,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -214,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
-    "timeDay": 666,
-    "timeWeek": 592,
-    "timeMonth": 551,
+    "timeDay": 634,
+    "timeWeek": 574,
+    "timeMonth": 554,
     "timeYear": 594,
     "dailyMinutesDown": {}
   }
