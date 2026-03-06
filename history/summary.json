@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "36.11%",
+    "uptime": "36.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.26%",
-    "time": 2201,
-    "timeDay": 1053,
-    "timeWeek": 1205,
-    "timeMonth": 1259,
-    "timeYear": 2201,
+    "uptimeYear": "92.53%",
+    "time": 2199,
+    "timeDay": 1546,
+    "timeWeek": 1256,
+    "timeMonth": 1272,
+    "timeYear": 2199,
     "dailyMinutesDown": {
       "2025-12-22": 4,
       "2025-12-21": 12,
@@ -45,8 +45,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   },
   {
@@ -61,10 +60,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 861,
-    "timeDay": 655,
-    "timeWeek": 860,
-    "timeMonth": 863,
-    "timeYear": 869,
+    "timeDay": 1029,
+    "timeWeek": 913,
+    "timeMonth": 865,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   },
   {
@@ -79,10 +78,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 761,
-    "timeDay": 528,
-    "timeWeek": 714,
-    "timeMonth": 737,
-    "timeYear": 758,
+    "timeDay": 836,
+    "timeWeek": 756,
+    "timeMonth": 739,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
@@ -97,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1035,
-    "timeDay": 778,
-    "timeWeek": 1048,
-    "timeMonth": 1051,
-    "timeYear": 1044,
+    "timeDay": 993,
+    "timeWeek": 1076,
+    "timeMonth": 1047,
+    "timeYear": 1045,
     "dailyMinutesDown": {}
   },
   {
@@ -115,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 437,
-    "timeWeek": 556,
-    "timeMonth": 569,
+    "timeDay": 504,
+    "timeWeek": 571,
+    "timeMonth": 564,
     "timeYear": 595,
     "dailyMinutesDown": {}
   }
