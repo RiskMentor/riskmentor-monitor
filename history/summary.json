@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "36.72%",
+    "uptime": "36.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.72%",
-    "time": 2178,
-    "timeDay": 1416,
-    "timeWeek": 1246,
+    "uptimeYear": "95.00%",
+    "time": 2175,
+    "timeDay": 1085,
+    "timeWeek": 1208,
     "timeMonth": 1297,
-    "timeYear": 2178,
+    "timeYear": 2175,
     "dailyMinutesDown": {
       "2025-12-22": 4,
       "2025-12-21": 12,
@@ -36,8 +36,7 @@
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
-      "2025-03-16": 1440,
-      "2025-03-15": 1440
+      "2025-03-16": 1440
     }
   },
   {
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 975,
-    "timeWeek": 861,
-    "timeMonth": 874,
-    "timeYear": 870,
+    "time": 862,
+    "timeDay": 774,
+    "timeWeek": 827,
+    "timeMonth": 879,
+    "timeYear": 871,
     "dailyMinutesDown": {}
   },
   {
@@ -70,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 759,
-    "timeDay": 781,
-    "timeWeek": 748,
-    "timeMonth": 740,
+    "timeDay": 849,
+    "timeWeek": 744,
+    "timeMonth": 751,
     "timeYear": 760,
     "dailyMinutesDown": {}
   },
@@ -88,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
-    "timeDay": 1224,
-    "timeWeek": 1063,
-    "timeMonth": 1061,
-    "timeYear": 1046,
+    "timeDay": 1024,
+    "timeWeek": 1030,
+    "timeMonth": 1069,
+    "timeYear": 1047,
     "dailyMinutesDown": {}
   },
   {
@@ -106,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 564,
-    "timeWeek": 1151,
-    "timeMonth": 717,
+    "timeDay": 652,
+    "timeWeek": 1141,
+    "timeMonth": 726,
     "timeYear": 606,
     "dailyMinutesDown": {}
   }
