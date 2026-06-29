@@ -4,11 +4,11 @@
     "url": "https://riskmentor.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
-    "status": "up",
-    "uptime": "43.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "43.22%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1956,
     "timeDay": 1418,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2025-08-22": 45,
       "2025-12-22": 4,
-      "2025-12-21": 12
+      "2025-12-21": 12,
+      "2026-06-29": 17
     }
   },
   {
@@ -26,18 +27,20 @@
     "url": "https://secure.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/secure.riskmentor.com.ico",
     "slug": "risk-mentor-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 873,
     "timeDay": 1065,
     "timeWeek": 955,
     "timeMonth": 864,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-29": 10
+    }
   },
   {
     "name": "RiskMentor v2 App",
@@ -62,18 +65,20 @@
     "url": "https://api.riskmentor.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.riskmentor.com.ico",
     "slug": "risk-mentor-v2-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 1996,
     "timeWeek": 1556,
     "timeMonth": 1485,
     "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-29": 2
+    }
   },
   {
     "name": "RiskMentor Connect",
