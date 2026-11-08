@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riskmentor.com.au.ico",
     "slug": "risk-mentor-website",
     "status": "up",
-    "uptime": "49.48%",
+    "uptime": "49.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1577,
-    "timeDay": 1832,
-    "timeWeek": 1689,
-    "timeMonth": 1549,
-    "timeYear": 1385,
+    "time": 1574,
+    "timeDay": 1454,
+    "timeWeek": 1680,
+    "timeMonth": 1552,
+    "timeYear": 1386,
     "dailyMinutesDown": {
       "2025-12-22": 4,
       "2025-12-21": 12,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 856,
-    "timeDay": 795,
-    "timeWeek": 793,
-    "timeMonth": 819,
+    "timeDay": 780,
+    "timeWeek": 788,
+    "timeMonth": 817,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2026-06-29": 30
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 848,
-    "timeWeek": 709,
-    "timeMonth": 730,
-    "timeYear": 752,
+    "timeDay": 625,
+    "timeWeek": 684,
+    "timeMonth": 726,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1207,
-    "timeDay": 1601,
-    "timeWeek": 1388,
-    "timeMonth": 1487,
-    "timeYear": 1261,
+    "timeDay": 1284,
+    "timeWeek": 1356,
+    "timeMonth": 1481,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2026-06-29": 23
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 475,
-    "timeWeek": 541,
-    "timeMonth": 626,
+    "timeDay": 544,
+    "timeWeek": 529,
+    "timeMonth": 625,
     "timeYear": 600,
     "dailyMinutesDown": {}
   }
